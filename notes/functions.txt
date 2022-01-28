@@ -1,0 +1,3 @@
+declaring return variable in function params -> https://www.youtube.com/watch?v=YS4e4q9oBaU&t=13639s
+
+returning error messages (overall - returing multiple variables) => https://www.youtube.com/watch?v=YS4e4q9oBaU&t=13639s

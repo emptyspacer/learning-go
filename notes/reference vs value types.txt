@@ -1,0 +1,16 @@
+In go, there are two types of variable: reference types and value types
+
+reference types contain pointers to the values contained within them
+
+so, if i create []int{} a (slice) and then say that b := a. if i append(b,1,2,3) the variable a will also be changed to {1,2,3}
+
+Reference types are as follows:
+slices
+maps
+
+in a value types the values contained within that variable are considered intrinsic
+
+because of this, if i have an int a, and say that b := a, if i change b A WILL NOT change
+
+Value types are as follows:
+any other data type
